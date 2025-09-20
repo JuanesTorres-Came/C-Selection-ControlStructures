@@ -16,7 +16,7 @@ int main() {
     do {
         printf("%d\n", i);
         i++; // Incrementa el valor de i
-    } while (i <= 5);
+    } while (i >= 5);
 
     return 0;
 }
